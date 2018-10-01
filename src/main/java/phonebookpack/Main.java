@@ -31,6 +31,6 @@ public class Main
 //        System.out.println(yellowPages.reverselookup("302-867-5309"));
 
 
-       System.out.println(yellowPages.display());
+       yellowPages.display();
     }
 }
